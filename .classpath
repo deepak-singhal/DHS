@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.beans-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.context-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.core-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.orm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.asm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.context.support-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/SPRING/spring-framework-3.1.0.M2/dist/org.springframework.transaction-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="E:/HIBERNATE/hibernate-distribution-3.6.4.Final/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/HIBERNATE/hibernate-distribution-3.6.4.Final/lib/required/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/HIBERNATE/hibernate-distribution-3.6.4.Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

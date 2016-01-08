@@ -1,0 +1,10 @@
+com\dhs\client\NetworkClient.class
+com\dhs\dto\Data.class
+com\dhs\client\NonNetworkClient$1.class
+com\dhs\client\Client.class
+com\dhs\server\Server$Filer.class
+com\dhs\client\NetworkClient$1.class
+com\dhs\server\Server.class
+com\dhs\client\NonNetworkClient.class
+com\dhs\dto\PersistenceConfiguration.class
+com\dhs\dao\DataDao.class
