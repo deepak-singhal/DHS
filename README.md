@@ -1,10 +1,10 @@
-DHS Medical Services
-======================
+          DHS Medical Services
+          ======================
 Overall Architecture
 ====================
- Client sends a request with a path to any file on the server 
- Server reads the file and responds back with the content 
- Client outputs the content to the console
+1. Client sends a request with a path to any file on the server 
+2. Server reads the file and responds back with the content 
+3. Client outputs the content to the console
 
 Major Components
 ================
