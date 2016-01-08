@@ -1,4 +1,3 @@
-# DHS
 DHS Medical Services
 ======================
 Package and Submission
